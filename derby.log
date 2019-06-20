@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 17 13:52:24 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016b-6487-b03b-00000b6885a0 
+on database directory memory:/home/bhuvi/Desktop/spring-jpa/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/bhuvi/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-8u212-b03-0ubuntu1.18.04.1-b03
+user.dir=/home/bhuvi/Desktop/spring-jpa
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-50-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
